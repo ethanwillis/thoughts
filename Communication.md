@@ -24,8 +24,8 @@ Analogy and metaphor are important tools. However by nature of being approximati
 
 In terms of radical novelties it seems to me that acquiring a second language is a process of not acquiring just vocabulary, grammar, etc. But also acquiring the cultural context of how concepts are linked together. A new language itself is a radical novelty because it is another way of thinking. There are two very simple examples from Ukrainian that come to mind immediately. The first is how a Ukrainian speaker thinks when asking "What is your name?" To most English speakers this is what our minds would go to. However, in Ukrainian the phrase is closer to "What are you called?" or "Як вас звати?" The literal translation is "How you called?" Interestingly, a Ukrainian speaker who was practicing their English with me started the conversation with "How can I call you?". The second example is in a phrase lots of newer English speakers will use when coming from Ukrainian. "My english is 50/50". It's a very strange phrase, it makes "sense" but it doesn't sound completely native. In a sense English speakers may translate in their minds to something such as "so-so". But, it can mean much more than that. In Ukrainian there is a word "середньо." It *roughly* can be translate as middle, average, or normal. This can sometimes lead to very strange constructions to native speakers. For example:
 
-"Як сьогодні погода? Холодно?" (How today weather? Cold?)
-"Середньо" (Middle/average/normal/not hot or cold)
+> "Як сьогодні погода? Холодно?" (How today weather? Cold?)
+> "Середньо" (Middle/average/normal/not hot or cold)
 
 When bringing this to English a Ukrainian speaker may very well say the weather is "50/50"! But, stranger still is that "50/50" coming from a Ukrainian context loses a nuance in English where it can be applied to the idea of probability of things happening. And if you are an English speaker going to Ukrainian you would not use Середньо to say that something has a 50/50 chance of happening. At least as far as I know :)
 
